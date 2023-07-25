@@ -17,8 +17,6 @@ Bu projeyi forkladıktan sonra bilgisayarınıza klonlayın.
 
 ### Görev 2: Düzen kısmındaki sınıfları kodlayın.
 
-### Görev 3: Uygulamadaki her sınıf değişkeni private olarak tanımlanmalı ve getter & setter metodları ile çağırılmalı.
-
 ### Düzen
 
 Uygulamanın ana yapısı
