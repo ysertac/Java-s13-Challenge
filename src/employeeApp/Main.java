@@ -18,7 +18,7 @@ public class Main
     /**
      * Bu projenin ana(main) metodu. Java uygulamalarında main metot küçük bir metot olur.
      * Bir Java programınd ilgili işlemlerin çoğunluğu başka metodlarda yapılır.
-     * Daha sonra ana metod diğer metodları çağırır. Böylece ana metodun içi kalabalık bir hale gelmememiş olur.
+     * Daha sonra ana metod diğer metodları çağırır. Böylece ana metodun içi kalabalık bir hale gelmemiş olur.
 
      *
      * @param args bu uygulamada kullanılmamaktadır. Command Line üzerinden argüman alan
