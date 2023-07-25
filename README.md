@@ -15,13 +15,10 @@ Bununla birlikte bir java uygulamasında sınıfların ve nesnelerin nasıl kull
 ### Görev 1: Proje Kurulumu
 Bu projeyi forkladıktan sonra bilgisayarınıza klonlayın.
 
-### Görev 2: Düzen kısmındaki sınıfları kodlayın.
+### Görev 2: 
+ * 3 tane sınıf oluşturmalısınız. ```Company```, ```Healthplan```, ```Employee```
+ * 
 
-### Düzen
-
-Uygulamanın ana yapısı
-
-![Application Layout](application_diagram.png)
 
 ### Görev 4: Main metodun içinden başka bir metod çağırımı yapın. Tüm işlemler bu yeni çağırım yaptığınız metod içinde yapılmalı
 
