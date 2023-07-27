@@ -17,7 +17,7 @@ Bu projeyi forkladıktan sonra bilgisayarınıza klonlayın.
 
 ### Görev 2: 
  * 3 tane sınıf oluşturmalısınız. ```Company```, ```Healthplan```, ```Employee```
- * Yazılacak tüm sınıflardaki sınıf değişkenleri  ```private``` olarak tanımlanmalı. Hepsi için getter & setter metodları yazılmalı. Her sınıfın toString() metodu ezilmeli.
+ * Yazılacak tüm sınıflardaki sınıf değişkenleri  ```private``` olarak tanımlanmalı. Hepsi için getter & setter metodları yazılmalı. Her sınıfın toString() metodu ezilmeli. Her sınıf için en az bir tane ```constructor``` tanımlanmalı.
  * ```Healthplan``` sınıfı  ```id```, ```name``` ve ```plan``` isminde 3 adet sınıf değişkeninden oluşmalı.
  * ```plan``` enum tipinde olmalı. ```name``` ve ```price``` değerlerini almalı.
  * Employee sınıfı içerisinde ```id, fullName, email, password``` ve ```String[] healthplans``` isminde toplamda 5 sınıf değişkeni olmalı.
